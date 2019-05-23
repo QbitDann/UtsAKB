@@ -2,4 +2,4 @@
 
 #Repository UTS Komputasi Bergerak
 
-<h>Nama : </h>
+<h2>Nama : </h2>
